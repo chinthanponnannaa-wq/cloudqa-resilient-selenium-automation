@@ -25,7 +25,7 @@ A C# Selenium WebDriver project that automates form testing using semantic and c
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone: https://github.com/chinthanponnannaa-wq/cloudqa-resilient-selenium-automation
 ```
 
 Navigate to the project:
